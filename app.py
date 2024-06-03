@@ -21,7 +21,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = Groq(
-    api_key="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"
+    api_key=""
 )
 
 
